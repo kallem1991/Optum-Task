@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Optum_Vending_Machine_task\Optum_Vending_Machine_task\bin\Debug\Optum_Vending_Machine_task.exe.config
+C:\Users\user\source\repos\Optum_Vending_Machine_task\Optum_Vending_Machine_task\bin\Debug\Optum_Vending_Machine_task.exe
+C:\Users\user\source\repos\Optum_Vending_Machine_task\Optum_Vending_Machine_task\bin\Debug\Optum_Vending_Machine_task.pdb
+C:\Users\user\source\repos\Optum_Vending_Machine_task\Optum_Vending_Machine_task\obj\Debug\Optum_Vending_Machine_task.Form1.resources
+C:\Users\user\source\repos\Optum_Vending_Machine_task\Optum_Vending_Machine_task\obj\Debug\Optum_Vending_Machine_task.Properties.Resources.resources
+C:\Users\user\source\repos\Optum_Vending_Machine_task\Optum_Vending_Machine_task\obj\Debug\Optum_Vending_Machine_task.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Optum_Vending_Machine_task\Optum_Vending_Machine_task\obj\Debug\Optum_Vending_Machine_task.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Optum_Vending_Machine_task\Optum_Vending_Machine_task\obj\Debug\Optum_Vending_Machine_task.exe
+C:\Users\user\source\repos\Optum_Vending_Machine_task\Optum_Vending_Machine_task\obj\Debug\Optum_Vending_Machine_task.pdb

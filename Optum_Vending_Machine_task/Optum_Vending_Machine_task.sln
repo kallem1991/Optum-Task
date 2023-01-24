@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optum_Vending_Machine_task", "Optum_Vending_Machine_task\Optum_Vending_Machine_task.csproj", "{97A003C9-1FE4-4435-8D6A-B9014F36F708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A003C9-1FE4-4435-8D6A-B9014F36F708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A003C9-1FE4-4435-8D6A-B9014F36F708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A003C9-1FE4-4435-8D6A-B9014F36F708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A003C9-1FE4-4435-8D6A-B9014F36F708}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A49092D6-50DA-4B6C-B9AE-C0F22551C4CA}
+	EndGlobalSection
+EndGlobal
